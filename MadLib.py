@@ -1,0 +1,20 @@
+
+action_1 = input("Enter an action: ")
+adjective_1 = input("Enter an adjective: ")
+noun_3 = input("Enter a noun(place): ")
+material = input("Enter a material: ")
+name = input("Enter a name: ")
+place_name = input("Enter a place name: ")
+item = input("Enter an item: ")
+color = input("Enter a color: ")
+description_word = input("Enter a description word: ")
+sound_volume = input("Enter a sound volume: ")
+person_or_thing = input("Enter a person or thing: ")
+description_word_2 = input("Enter another description word: ")
+action_2 = input("Enter an action ending in ing: ")
+speaking_level = input("Enter a speaking level: ")
+movement = input("Enter a movement: ")
+describing_word = input("Enter a describing word: ")
+
+print((f" You were {action_1} through the city. Whence you came upon a {adjective_1} {noun_3}. {noun_3} appeared to be made of {material} and was of the utmost {adjective_1}. Such a sight would surely surprise any ordinary pedestrian walking around but not you. For you were {name} the spy and this place was what you would consider your home. This place of endless rooms was where you worked, slept, and received your gear and missions. The headquarters of {place_name}. When you entered the building your eyes beheld a suspiciously large {item} in the middle of the plaza. Upon this {item} was a mysterious man in {color}. He seems to be waiting for you. After tearing your eyes away from the {description_word} sight you realized that the place was {sound_volume}. Usually this place was filled with a cacophony of noises from all the gadgets and gizmos being tested or the plethora of {person_or_thing} around you. Such a realization puts you immediately on high alert. Never before had this place seemed so {description_word_2}. You redirected your attention to the stranger who was currently {action_2} on the large object."))
+
